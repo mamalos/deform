@@ -22,3 +22,5 @@ lib/
 include/
 .idea/
 deformdemo_functional_tests
+[Ff]irefox*
+geckodriver*
