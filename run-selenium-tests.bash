@@ -3,7 +3,7 @@
 # This will run Selenium tests against deformdemo https://github.com/Pylons/deformdemo
 #
 # This script assumes you have checked out deformdemo to folder deformdemo_functional_tests
-# If there is no checkout a fresh checkout is is made. This allows you to check out
+# If there is no checkout a fresh checkout is made. This allows you to check out
 # particular PR beforehand to test against it.
 #
 
